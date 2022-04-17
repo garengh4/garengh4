@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-Hi, I am Garen! I am currently an Electrical Eng. graduate with an interest in developing software applications. I am focusing on security and structure that allows for maintainability without compromise down the road. I am confident in Java and Angular, and will consider looking at python in the near future :)
+Hi, I am Garen! I am currently an Electrical Eng. graduate with an interest in developing software applications. I am focusing on security and structure that allows for code maintainability without compromise down the road. I am confident in Java and Angular, and will consider looking at python in the near future :)
 
 In my spare time I love to read and go on hikes with my cat! Ask me anything!
 
