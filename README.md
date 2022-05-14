@@ -2,7 +2,7 @@
 
 Hi, I am Garen! I am currently an Electrical Eng. Grad with an interest in developing software applications. 
 
-I am focusing on security and structure that allows for code maintainability without compromise down the road. I am relatively confident in Java and Angular, and am learning python as my second language.
+I am focused on security and code maintainability under OO principle. I am relatively confident in Java maven and Angular, and am learning python as my second language.
 
 In my spare time I love to read and go on hikes with my cat.
 
