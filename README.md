@@ -2,9 +2,9 @@
 
 Hi, My name is Garen and I am an Electrical Eng. Grad! I work mainly with java springboot and sometimes delve into Angular and NodeJS. 
 
-My mission in life is code readability with intent for easy down-the-road maintainence. I am currently working with Eureka microservice and Jdbc
+My mission in life is code readability with intent for easy down-the-road maintainence. I am currently working with Eureka microservice and Jdbc.
 
-In my spare time I love to read and go on hikes with my cat.
+In my spare time I love to read and go on hikes with my cat. :):)
 
 <!--
 **garengh4/garengh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
