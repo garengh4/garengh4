@@ -1,8 +1,8 @@
 ### Welcome! 👋
 
-Hi, I am Garen! I am currently an Electrical Eng. Grad with an interest in developing software applications. 
+Hi, My name is Garen and I am an Electrical Eng. Grad! I work mainly with java springboot and sometimes delve into Angular and NodeJS. 
 
-I am focused on security and code maintainability under OO principle. I am relatively confident in Java maven and Angular, and am learning python as my second language.
+My mission in life is code readability with intent for easy down-the-road maintainence. I am currently working with Eureka microservice and Jdbc
 
 In my spare time I love to read and go on hikes with my cat.
 
