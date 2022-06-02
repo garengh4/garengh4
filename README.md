@@ -2,7 +2,7 @@
 
 Hi, my name is Garen and I am an Electrical Eng. Grad! I work mainly with java springboot and sometimes delve into Angular and NodeJS. 
 
-My current mission is code readability because I believe beingAbleToTeach = fullyUnderstanding. This as a result has pushed me to Object-Oriented principles and Model-View-Controller architecture.
+My current mission is code readability because I believe ```beingAbleToTeach = fullyUnderstanding```. This as a result has pushed me to Object-Oriented principles and Model-View-Controller architecture.
 
 Currently I am working on:
 - Mockito 
