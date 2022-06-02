@@ -2,7 +2,13 @@
 
 Hi, My name is Garen and I am an Electrical Eng. Grad! I work mainly with java springboot and sometimes delve into Angular and NodeJS. 
 
-My mission in life is code readability with intent for easy down-the-road maintainence. I am currently working with Eureka microservice and Jdbc.
+My current mission is code readability because I believe beingAbleToTeach = fullyUnderstanding. This as a result has pushed me to Object-Oriented principles and Model-View-Controller architecture.
+
+Currently I am working on:
+-- Mockito 
+-- JdbcTemplate
+-- CrudRepository and JpaRepository 
+-- Netflix Eureka and RestTemplate
 
 In my spare time I love to read and go on hikes with my cat. :):)
 
