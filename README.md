@@ -5,10 +5,10 @@ Hi, My name is Garen and I am an Electrical Eng. Grad! I work mainly with java s
 My current mission is code readability because I believe beingAbleToTeach = fullyUnderstanding. This as a result has pushed me to Object-Oriented principles and Model-View-Controller architecture.
 
 Currently I am working on:
--- Mockito 
--- JdbcTemplate
--- CrudRepository and JpaRepository 
--- Netflix Eureka and RestTemplate
+- Mockito 
+- JdbcTemplate
+- CrudRepository and JpaRepository 
+- Netflix Eureka and RestTemplate
 
 In my spare time I love to read and go on hikes with my cat. :):)
 
