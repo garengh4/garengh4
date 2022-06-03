@@ -5,7 +5,7 @@ Hi, my name is Garen and I am an Electrical Eng. Grad! I work mainly with java s
 My current mission is code readability because I believe ```fullyUnderstanding == beingAbleToTeach == easyToReadCode```. This as a result has pushed me to Object-Oriented principles and Model-View-Controller architecture.
 
 Currently I am working on:
-- Mockito 
+- Junit DAO and Service 
 - JdbcTemplate
 - CrudRepository and JpaRepository 
 - Netflix Eureka and RestTemplate
