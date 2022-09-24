@@ -2,15 +2,9 @@
 
 Hi, my name is Garen and I am an Electrical Eng. Grad! I work mainly with springboot and Angular, and sometimes go into and NodeJS...
 
-My current mission is code readability because I believe ```fullyUnderstanding == beingAbleToTeach == easyToReadCode```. This as a result has pushed me to Object-Oriented principles and Model-View-Controller architecture.
+My current mission is finding and understanding the best architecture for this angular-springboot stack: I am currently convinced object-oriented backend at @input/@output frontend is the one.
 
-Currently I am working on:
-- Junit DAO and Service 
-- JdbcTemplate
-- CrudRepository and JpaRepository 
-- Netflix Eureka and RestTemplate
-
-In my spare time I love to read and go on hikes with my cat. :):)
+In my spare time I love to game, read and teach my cat how to not be shy :):)
 
 <!--
 **garengh4/garengh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
