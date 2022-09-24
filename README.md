@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-Hi, my name is Garen and I am an Electrical Eng. Grad! I work mainly with java springboot and sometimes delve into Angular and NodeJS. 
+Hi, my name is Garen and I am an Electrical Eng. Grad! I work mainly with springboot and Angular, and sometimes go into and NodeJS...
 
 My current mission is code readability because I believe ```fullyUnderstanding == beingAbleToTeach == easyToReadCode```. This as a result has pushed me to Object-Oriented principles and Model-View-Controller architecture.
 
