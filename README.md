@@ -4,7 +4,7 @@ Hi, my name is Garen and I am an Electrical Eng. Grad! I work mainly with spring
 
 My current mission is finding and understanding the best architecture for this angular-springboot stack: I am currently convinced object-oriented backend at @input/@output frontend is the one.
 
-In my spare time I love to game, read and teach my cat how to not be shy :):)
+In my spare time I love to game, read and teach my cat tricks :):)
 
 <!--
 **garengh4/garengh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
